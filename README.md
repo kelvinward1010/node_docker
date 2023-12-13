@@ -6,3 +6,5 @@ initals infor: -p 80:80 => "80" fisrt post is hot port in browser
 docker build image: docker build -t image_name .
 
 if node_modules does not exits: add a command: -v /app/node_modules when you run docker container
+
+Fix: used: Ignix
